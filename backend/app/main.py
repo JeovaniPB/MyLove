@@ -69,6 +69,106 @@ def get_memories():
                 {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1770956096/WhatsApp_Image_2026-02-12_at_9.46.16_PM_tfuzfv.jpg"},
             ]
         },
+        {
+            "id": 6,
+            "title": "Tu con un pato en la cabeza",
+            "date": "23 de Abril",
+            "description": "Ese día, tu espontaneidad y sentido del humor brillaron más que nunca. Verte con ese pato en la cabeza fue un momento de pura alegría y diversión que siempre recordaré con una sonrisa. Esos momentos de risa compartida son los que hacen que nuestra historia sea tan especial.",
+            "media": [
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771012801/WhatsApp_Image_2026-02-12_at_9.46.19_PM_auvo7i.jpg"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771012796/WhatsApp_Image_2026-02-12_at_9.46.19_PM_1_lxs5lu.jpg"},
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Cuando tenemos salidas juntes",
+            "date": "29 de Diciembre",
+            "description": "Amo salir contigo y compartir momentos fuera de lo común. Esos días en los que exploramos juntos, reímos sin parar y creamos recuerdos únicos son los que hacen que nuestra historia sea tan especial. Cada salida contigo es una aventura que atesoro profundamente.",
+            "media": [
+                {"type": "video", "url": "https://res.cloudinary.com/dbytdtelf/video/upload/v1771012994/WhatsApp_Video_2026-02-12_at_9.46.23_PM_pf82ww.mp4"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771012990/WhatsApp_Image_2026-02-12_at_9.46.19_PM_3_fp26v6.jpg"},
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Primera vez en la playa",
+            "date": "11 de Enero",
+            "description": "Cuando fuimos a la playa por primera vez, el sol, la arena y el mar nos envolvieron en un abrazo de paz y tranquilidad. Fue un día perfecto, lleno de risas, besos y momentos que nunca olvidaré. Esos momentos en la playa son los que hacen que nuestra historia sea tan especial.",
+            "media": [
+                {"type": "video", "url": "https://res.cloudinary.com/dbytdtelf/video/upload/v1771018632/WhatsApp_Video_2026-02-12_at_9.46.28_PM_owzs52.mp4"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771018627/WhatsApp_Image_2026-02-12_at_9.46.24_PM_fqmgtj.jpg"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771018630/WhatsApp_Image_2026-02-12_at_9.46.23_PM_p9b1ix.jpg"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771018628/WhatsApp_Image_2026-02-12_at_9.46.23_PM_1_i97evd.jpg"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771013128/WhatsApp_Image_2026-02-12_at_9.46.24_PM_1_xo5bsl.jpg"},
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Primera vez en la playa",
+            "date": "11 de Enero",
+            "description": "Cuando fuimos a la playa por primera vez, el sol, la arena y el mar nos envolvieron en un abrazo de paz y tranquilidad. Fue un día perfecto, lleno de risas, besos y momentos que nunca olvidaré. Esos momentos en la playa son los que hacen que nuestra historia sea tan especial.",
+            "media": [
+                {"type": "video", "url": "https://res.cloudinary.com/dbytdtelf/video/upload/v1771012994/WhatsApp_Video_2026-02-12_at_9.46.23_PM_pf82ww.mp4"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771012990/WhatsApp_Image_2026-02-12_at_9.46.19_PM_3_fp26v6.jpg"},
+            ]
+        },
+        {
+            "id": 10,
+            "title": "14 de febrero",
+            "date": "14 de Febrero",
+            "description": "Cuando fuimos por unas hamburgesuitas por el 14 de febrero, fue un día lleno de amor y risas. Ademàs de que a Jeovicito le cayò mal jsjsjs",
+            "media": [
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771018981/WhatsApp_Image_2026-02-12_at_9.49.32_PM_1_pmif9e.jpg"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771018976/WhatsApp_Image_2026-02-12_at_9.49.32_PM_xtax6x.jpg"},
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Nuestro Aniversario",
+            "date": "1 de Marzo",
+            "description": "Fue lindo verte y dedicarte un libro muy lindo",
+            "media": [
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771019140/WhatsApp_Image_2026-02-12_at_9.49.33_PM_2_v2dscb.jpg"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771019135/WhatsApp_Image_2026-02-12_at_9.49.33_PM_4_vmmfma.jpg"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771019141/WhatsApp_Image_2026-02-12_at_9.49.33_PM_1_q4wiqt.jpg"},
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Cuando fuimos a la feria",
+            "date": "8 de Mayo",
+            "description": "Cuando nos quitaron dinero, pero aun asi fue lindo al subirnos a los juegos y compartir ese momento juntos. Fue lindo verte.",
+            "media": [
+                {"type": "video", "url": "https://res.cloudinary.com/dbytdtelf/video/upload/v1771019476/WhatsApp_Video_2026-02-12_at_9.49.51_PM_ch96nr.mp4"},
+                {"type": "video", "url": "https://res.cloudinary.com/dbytdtelf/video/upload/v1771019476/WhatsApp_Video_2026-02-12_at_9.49.41_PM_jaqshf.mp4"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771019447/WhatsApp_Image_2026-02-12_at_9.49.42_PM_1_z00jho.jpg"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771019449/WhatsApp_Image_2026-02-12_at_9.49.42_PM_guujgv.jpg"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771019444/WhatsApp_Image_2026-02-12_at_9.49.51_PM_ca7et4.jpg"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771019443/WhatsApp_Image_2026-02-12_at_9.49.34_PM_3_ztwqmf.jpg"},
+            ]
+        },
+        {
+            "id": 13,
+            "title": "Segunda ida a la playa",
+            "date": "11 de septiembre",
+            "description": "Fue lindo ir a la playa y compartir ese momento juntos, apesar del caloron amor",
+            "media": [
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771019607/WhatsApp_Image_2026-02-12_at_9.49.58_PM_tgdfap.jpg"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771019606/WhatsApp_Image_2026-02-12_at_9.49.58_PM_1_jyii7g.jpg"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771019612/WhatsApp_Image_2026-02-12_at_9.49.57_PM_5_si4rdd.jpg"},
+            ]
+        },
+        {
+            "id": 14,
+            "title": "Cuando fue tu cumpleaños",
+            "date": "6 de Noviembre",
+            "description": "Lo organize con mucho amor, fue un cumpleaños muy lindo, me encantó que lo pasaras bien con todos.",
+            "media": [
+                {"type": "video", "url": "https://res.cloudinary.com/dbytdtelf/video/upload/v1771019724/WhatsApp_Video_2026-02-13_at_3.54.38_PM_afzhok.mp4"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771019689/WhatsApp_Image_2026-02-12_at_10.09.34_PM_1_zhwzsg.jpg"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771019690/WhatsApp_Image_2026-02-12_at_10.09.34_PM_kljgzl.jpg"},
+            ]
+        }
     ]
 # Endpoint para la pantalla de Cartas (Para ti)
 @app.get("/letters")
