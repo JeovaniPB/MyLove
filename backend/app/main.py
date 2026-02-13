@@ -22,7 +22,7 @@ def get_memories():
         {
             "id": 1,
             "title": "Nuestra primera charla",
-            "date": "12 de Febrero",
+            "date": "3 de Febrero",
             "description": "Hasta le tome captura a nuestra primera conversación, porque supe que era el inicio de algo especial.",
             "media": [
                 {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1770954806/WhatsApp_Image_2026-02-12_at_9.45.47_PM_zm1hwt.jpg"},
@@ -30,11 +30,12 @@ def get_memories():
         },
         {
             "id": 2,
-            "title": "Solo una foto",
-            "date": "14 de Febrero",
-            "description": "Una foto que me encanta.",
+            "title": "Nuestra primera cita",
+            "date": "12 de Febrero",
+            "description": "Ese día, cada segundo se sintió como un regalo. Desde la risa compartida hasta el silencio cómodo, supe que quería más momentos así contigo.",
             "media": [
-                {"type": "image", "url": "https://images.unsplash.com/photo-1528605248644-14dd04022da1"}
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1770955014/WhatsApp_Image_2026-02-12_at_9.45.48_PM_1_rvvtrh.jpg"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1770955014/WhatsApp_Image_2026-02-12_at_9.45.48_PM_ao0dyg.jpg"},
             ]
         }
     ]

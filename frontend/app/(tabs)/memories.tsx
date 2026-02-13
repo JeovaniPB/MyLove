@@ -38,7 +38,7 @@ export default function MemoriesScreen() {
   return (
     <SafeAreaView className="flex-1 bg-[#FDF8F3]">
       {/* Header más limpio */}
-      <View className="mt-10 px-8 mb-8">
+      <View className="mt-5 px-8 mb-5">
         <View className="flex-row items-center">
           <Text className="text-4xl font-serif text-[#3C2F2F]">Recuerdos</Text>
           <Sparkles size={20} color="#D4A373" style={{marginLeft: 10}} />
@@ -128,8 +128,8 @@ export default function MemoriesScreen() {
               </View>
 
               {/* Texto de la dedicatoria estilo carta */}
-              <View className="p-10 items-center">
-                <Heart size={24} color="#D4A373" fill="#D4A373" className="mb-6 opacity-40" />
+              <View className="p-5 items-center">
+                <Heart size={24} color="#D4A373" fill="#D4A373" className="mb-2 opacity-90" />
                 <Text className="text-[#3C2F2F] text-3xl font-serif text-center mb-6">
                   {selected?.title}
                 </Text>
