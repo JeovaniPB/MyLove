@@ -37,7 +37,38 @@ def get_memories():
                 {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1770955014/WhatsApp_Image_2026-02-12_at_9.45.48_PM_1_rvvtrh.jpg"},
                 {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1770955014/WhatsApp_Image_2026-02-12_at_9.45.48_PM_ao0dyg.jpg"},
             ]
-        }
+        },
+        {
+            "id": 3,
+            "title": "Nuestro primer 'sí' como novios",
+            "date": "1 de Marzo",
+            "description": "Ese día, al decir 'sí' a ser novios, sentí que el mundo se volvía un lugar más brillante. Fue el comienzo de nuestro viaje juntos, y cada día desde entonces ha sido una aventura maravillosa a tu lado.",
+            "media": [
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1770955857/WhatsApp_Image_2026-02-12_at_9.45.49_PM_dsgtop.jpg"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1770955856/WhatsApp_Image_2026-02-12_at_9.45.49_PM_1_xg397q.jpg"},
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Una de las primeras veces que fui a tu casa",
+            "date": "22 de Marzo",
+            "description": "Recuerdo esa tarde como si fuera ayer. La emoción de conocer tu espacio, tus cosas, y compartir risas en tu sala. Fue un paso más en nuestro camino juntos, y cada vez que pienso en ese día, me llena de alegría saber que es parte de nuestra historia.",
+            "media": [
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1770955950/WhatsApp_Image_2026-02-12_at_9.46.08_PM_1_xrqizq.jpg"},
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Cuando subimos el cerro juntos",
+            "date": "29 de Marzo",
+            "description": "Ese dia estuvo bonito, a pesar de la desvelada mi amor, me encantó compartir esa aventura contigo. Subir el cerro juntos fue más que una caminata; fue un momento de conexión y compañerismo que siempre recordaré con cariño.",
+            "media": [
+                {"type": "video", "url": "https://res.cloudinary.com/dbytdtelf/video/upload/v1770956159/WhatsApp_Video_2026-02-12_at_9.46.16_PM_zbgp0k.mp4"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1770956095/WhatsApp_Image_2026-02-12_at_9.46.17_PM_1_fciaen.jpg"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1770956096/WhatsApp_Image_2026-02-12_at_9.46.17_PM_my5338.jpg"},
+                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1770956096/WhatsApp_Image_2026-02-12_at_9.46.16_PM_tfuzfv.jpg"},
+            ]
+        },
     ]
 # Endpoint para la pantalla de Cartas (Para ti)
 @app.get("/letters")
