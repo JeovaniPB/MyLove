@@ -104,16 +104,6 @@ def get_memories():
         },
         {
             "id": 9,
-            "title": "Primera vez en la playa",
-            "date": "11 de Enero",
-            "description": "Cuando fuimos a la playa por primera vez, el sol, la arena y el mar nos envolvieron en un abrazo de paz y tranquilidad. Fue un día perfecto, lleno de risas, besos y momentos que nunca olvidaré. Esos momentos en la playa son los que hacen que nuestra historia sea tan especial.",
-            "media": [
-                {"type": "video", "url": "https://res.cloudinary.com/dbytdtelf/video/upload/v1771012994/WhatsApp_Video_2026-02-12_at_9.46.23_PM_pf82ww.mp4"},
-                {"type": "image", "url": "https://res.cloudinary.com/dbytdtelf/image/upload/v1771012990/WhatsApp_Image_2026-02-12_at_9.46.19_PM_3_fp26v6.jpg"},
-            ]
-        },
-        {
-            "id": 10,
             "title": "14 de febrero",
             "date": "14 de Febrero",
             "description": "Cuando fuimos por unas hamburgesuitas por el 14 de febrero, fue un día lleno de amor y risas. Ademàs de que a Jeovicito le cayò mal jsjsjs",
@@ -123,7 +113,7 @@ def get_memories():
             ]
         },
         {
-            "id": 11,
+            "id": 10,
             "title": "Nuestro Aniversario",
             "date": "1 de Marzo",
             "description": "Fue lindo verte y dedicarte un libro muy lindo",
@@ -134,7 +124,7 @@ def get_memories():
             ]
         },
         {
-            "id": 12,
+            "id": 11,
             "title": "Cuando fuimos a la feria",
             "date": "8 de Mayo",
             "description": "Cuando nos quitaron dinero, pero aun asi fue lindo al subirnos a los juegos y compartir ese momento juntos. Fue lindo verte.",
@@ -148,7 +138,7 @@ def get_memories():
             ]
         },
         {
-            "id": 13,
+            "id": 12,
             "title": "Segunda ida a la playa",
             "date": "11 de septiembre",
             "description": "Fue lindo ir a la playa y compartir ese momento juntos, apesar del caloron amor",
@@ -159,7 +149,7 @@ def get_memories():
             ]
         },
         {
-            "id": 14,
+            "id": 13,
             "title": "Cuando fue tu cumpleaños",
             "date": "6 de Noviembre",
             "description": "Lo organize con mucho amor, fue un cumpleaños muy lindo, me encantó que lo pasaras bien con todos.",
@@ -170,6 +160,7 @@ def get_memories():
             ]
         }
     ]
+    
 # Endpoint para la pantalla de Cartas (Para ti)
 @app.get("/letters")
 def get_letters():

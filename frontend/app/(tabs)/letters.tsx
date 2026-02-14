@@ -2,8 +2,9 @@ import React, { useEffect, useState } from "react";
 import { View, Text, ScrollView, Pressable, Modal, ActivityIndicator } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { Mail, Heart, X } from "lucide-react-native";
+const APIURL = process.env.EXPO_PUBLIC_API_URL;
 
-const API_URL = "http://192.168.0.7:8000/letters"; 
+const API_URL = `${APIURL}/letters`; 
 
 export default function LettersScreen() {
   const [letters, setLetters] = useState([]);

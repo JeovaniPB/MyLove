@@ -7,10 +7,11 @@ import { SafeAreaView } from "react-native-safe-area-context";
 import { X, Heart, Play, Sparkles } from "lucide-react-native";
 import { Video, ResizeMode } from 'expo-av';
 import { useQuery } from '@tanstack/react-query';
+const APIURL = process.env.EXPO_PUBLIC_API_URL;
 
 const { width } = Dimensions.get("window");
 const CARD_W = width * 0.82; 
-const API_URL = "http://192.168.0.7:8000/memories"; 
+const API_URL = `${APIURL}/memories`;
 
 export default function MemoriesScreen() {
   const [selected, setSelected] = useState<any>(null);
